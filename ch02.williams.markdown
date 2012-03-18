@@ -1,0 +1,49 @@
+% The Simplicity of 'Think-Pair-Share'
+% George Williams
+% September 19, 2011
+
+In many courses, [class
+discussion](http://chronicle.com/blogs/profhacker/tag/class-discussion)
+is a central part of student learning. Whether you’re using the Socratic
+method or aiming for something much more freeform, getting your students
+to voice their (sometimes not fully-formed) thoughts can be an
+especially effective way of engaging active learning.
+
+What do you do if your students are reluctant to talk? Erin wrote [a
+great post early last
+year](http://chronicle.com/blogs/profhacker/silence-is-golden/22936)
+with specific suggestions for addressing this situation. What if only a
+few students actually participate in class discussion regularly? This is
+undesirable for two reasons. First, their thoughts take on a
+disproportionate weight in the conversations, and second, the other
+students are allowed to coast, letting these few students do the
+majority of the work necessary in class discussion.
+
+One activity that I’ve found quite useful was developed by Frank Lyman
+thirty years ago and goes by the name
+“[think-pair-share](http://www.google.com/search?q=frank+lyman+think+pair+share).”
+(I’m pretty sure [this
+publication](http://books.google.com/books?id=2XMyGwAACAAJ) is where
+Lyman first wrote about this activity.) It’s really quite simple, but
+it’s almost always effective, in my experience. Here’s how it works:
+
+1.  Ask a clearly-phrased question of your students. Be sure everyone
+    understands what you’re asking. See if anyone needs you to repeat
+    the question. Give students a couple of minutes to think about their
+    answer to the question.
+2.  Have each student turn to a person seated nearby and discuss their
+    answers to the question for a few minutes.
+3.  Finally, ask for volunteers to share details from their discussions.
+
+This activity allows every student the opportunity to think something
+through and discuss their thoughts out loud. It also shields students
+who might be shy from having to speak up in front of a room full of
+people, which creates a significant amount of anxiety in many people.
+And “think-pair-share” can also help with the problem of a few student
+voices always being the same ones heard in each class meeting.
+
+After I used this technique several times earlier this semester, I
+wondered if it was as widely known as I had assumed. After learning via
+Twitter that only about half of those who responded to a query already
+knew of this discussion strategy, I figured it would be worthwhile to
+share a few details more widely.

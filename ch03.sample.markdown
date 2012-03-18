@@ -1,0 +1,85 @@
+% Teaching for Uncoverage rather than Coverage 
+% Mark Sample
+% August 23, 2011
+
+I recently
+[suggested](http://chronicle.com/blogs/profhacker/teaching-for-enduring-understanding/35243)
+on ProfHacker that we should design our courses around “enduring
+understanding,” which means, as I put it, focusing on what we want our
+students to understand, rather than what we want them to read.
+
+An [anonymous
+commenter](http://chronicle.com/blogs/profhacker/teaching-for-enduring-understanding/35243#comment-283598126)
+to that article wondered whether these two goals were as different as I
+made them out to be. Especially in a discipline such as literature,
+isn’t the whole point to read a set of books that more or less cohere in
+some chronological or thematic way? By reading a selection of
+deliberately-chosen texts, aren’t we implicitly delineating what it is
+we want our students to understand?
+
+My answer is—regardless of your discipline—*no*. And I want to use **the
+distinction between coverage and uncoverage** to help explain why.
+
+Once again, I’ll turn to Wiggins and McTighe’s book [Understanding by
+Design](http://www.amazon.com/gp/product/0131950843/ref=as_li_ss_tl?ie=UTF8&tag=sampreal-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0131950843),
+from which I’ve borrowed the notion of enduring understanding. Wiggins
+and McTighe devote an entire chapter to “uncoverage,” which they
+contrast with the more familiar concept of coverage. In terms of course
+design, coverage refers to the amount of information covered by a class,
+usually measured in the humanities by time, distance, or theme, or in
+the sciences by scientific principles. A survey course exemplifies the
+idea of coverage. “The British Novel of the 19th Century” or “American
+History Since 1945″ spells out what will be covered in these classes;
+however, the course names, the syllabi, or even the weeks spent in the
+classes themselves may not actually reveal what it is about the
+Victorian novel or post-war American history that is worth “enduring
+understanding.”
+
+To highlight the pitfall of coverage as the default model of course
+design, Wiggins and McTighe recall a more “ominous” definition of the
+verb *cover*: “to protect or conceal, to hide from view” (106). They
+suggest that in the race to cover more ground—more history, more
+literature, more formulas, more physics—we can end up actually
+*covering* or *hiding* the underlying principles that make those
+subjects important in the first place. Uncoverage, in contrast,
+emphasizes revealing assumptions, facts, principles, and experiences
+that would otherwise remain obscured. Uncoverage is uncovering in order
+to learn something new. Uncoverage is digging down.
+
+Wiggins and McTighe outline **five steps toward discovering depth** in
+whatever material you’re teaching (and your students are learning):
+
+1.  Unearth it
+2.  Analyze it
+3.  Question it
+4.  Prove it
+5.  Generalize it
+
+Because steps two through five proceed from it, “unearthing” is a
+critical first step. Wiggins and McTighe offer a concise explanation of
+what they mean by “unearth it”:
+
+> Bring to the surface and bring to light the misunderstood, the subtle,
+> the nonobvious, the problematic, the controversial, the obscure, the
+> missing, and the lost. (102)
+
+Given the spatial metaphor of uncoverage as digging (unearthing) and
+coverage as moving across, it’s tempting to characterize uncoverage as
+“depth” and coverage as “breadth.” But Wiggins and McTighe caution that
+depth and breadth should not be pitted against each other. In fact,
+**breadth is a key component of uncoverage**, the weft to the warp of
+understanding. Breadth means connecting disparate ideas, finding news
+ways to represent what is uncovered, and extending one’s conceptual
+reach to the implications of the material.
+
+Taken together, depth and breadth mean moving away from the prepackaged
+observations and readily digestible interpretations that go hand-in-hand
+with coverage. This is not to say that a class on the 19th century
+British novel forecloses the possibility of uncoverage, or that a
+post-War American history class can’t involve true discovery and the
+formation of atypical connections. Or—to go back to the anonymous
+comment—that basing your syllabus on a bunch of books you want to teach
+will inevitably shortchange your students’ enduring understanding. But
+it *is* more difficult. It is *not*automatic. It takes planning and an
+attentiveness to what it is you want your students to learn, *really
+learn*, in your class.
