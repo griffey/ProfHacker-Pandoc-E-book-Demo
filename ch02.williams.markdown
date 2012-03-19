@@ -1,6 +1,7 @@
-% The Simplicity of 'Think-Pair-Share'
-% George Williams
-% September 19, 2011
+The Simplicity of 'Think-Pair-Share'
+====================================
+
+George Williams
 
 In many courses, [class
 discussion](http://chronicle.com/blogs/profhacker/tag/class-discussion)

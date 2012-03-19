@@ -1,6 +1,7 @@
-% Writer's Bootcamp: The DRAW Method 
-% Billie Hara
-% April 8, 2010
+Writer's Bootcamp: The DRAW Method 
+==================================
+
+Billie Hara  
 
 Every two weeks, we at ProfHacker publish articles about how to be
 productive in your writing. All the suggestions we provide actually

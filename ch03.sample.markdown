@@ -1,6 +1,7 @@
-% Teaching for Uncoverage rather than Coverage 
-% Mark Sample
-% August 23, 2011
+Teaching for Uncoverage rather than Coverage 
+============================================
+
+Mark Sample
 
 I recently
 [suggested](http://chronicle.com/blogs/profhacker/teaching-for-enduring-understanding/35243)
